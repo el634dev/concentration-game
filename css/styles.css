@@ -1,0 +1,87 @@
+.board-container {
+    height: 370px;
+    width: 370px;
+}
+
+/* Nested row within board-container div */
+.board-container .row {
+    height: 100%;
+}
+
+/* Gameboard squares styling */
+.board-square {
+    border: 2px solid #f7f7f7;
+    height: 25%;
+    padding: 0;
+    overflow: hidden;
+}
+
+/* Gameboard squares face container styling */
+.face-container {
+    height: 200%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    transition: 400ms;
+}
+
+.flipped .face-container {
+    top: -100%
+}
+
+/* Gameboard squares face styling */
+.facedown,
+.faceup {
+    height: 50%;
+}
+
+/* Inital color */
+.facedown {
+    background-color: #d0d0d0;
+}
+
+/*  Color when trying to match */
+/* .faceup {
+    background-color: coral;
+} */
+
+/* Reset button styling */
+.btn {
+    margin: 15px auto 0;
+    width: 370px;
+    display: flex;
+    justify-content: center;
+}
+
+/* Colors for faceup */
+.color-0 {
+    background-color: aqua;
+  }
+  
+  .color-1 {
+    background-color: bisque;
+  }
+  
+  .color-2 {
+    background-color: blue;
+  }
+  
+  .color-3 {
+    background-color: blueviolet;
+  }
+  
+  .color-4 {
+    background-color: brown;
+  }
+  
+  .color-5 {
+    background-color: cadetblue;
+  }
+  
+  .color-6 {
+    background-color: chartreuse;
+  }
+  
+  .color-7 {
+    background-color: coral;
+  }
