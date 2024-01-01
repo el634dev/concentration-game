@@ -3,7 +3,7 @@
 > 
 > Try memorize all the colors and get all to match
 > 
-> No live demo yet. <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://el634dev.github.io/concentration-game/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
