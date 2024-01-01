@@ -1,7 +1,8 @@
 # Concentration Game
 > Game made using Vanilla JS, HTML and CSS
 > 
-> Try memorize all the colors and get all to match.
+> Try memorize all the colors and get all to match
+> 
 > No live demo yet. <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
